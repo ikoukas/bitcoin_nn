@@ -1,6 +1,8 @@
 # bitcoin_nn
 The output files of my Bitcoin price-trend prediction program
 
+# Bitcoin Medium-Term Prediction and Transactions Suggestion using Deep Learning
+
 I've created a Python program that tries to predict the trend of Bitcoin for (it's a parameter) the next 18 days.
 
 The program has many options regarding the method that will be used to make the prediction some of which involve ANNs, CNNs, RNNs and the R forecast library.
